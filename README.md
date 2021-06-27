@@ -1,1 +1,1 @@
-# Arduino-code
+# Simple-Knight-Rider-Pattern-with-Arduino
